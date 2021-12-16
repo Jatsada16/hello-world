@@ -1,0 +1,17 @@
+E:\hello-world\temp calculator\temp calculator\bin\Debug\net6.0-windows\temp calculator.exe
+E:\hello-world\temp calculator\temp calculator\bin\Debug\net6.0-windows\temp calculator.deps.json
+E:\hello-world\temp calculator\temp calculator\bin\Debug\net6.0-windows\temp calculator.runtimeconfig.json
+E:\hello-world\temp calculator\temp calculator\bin\Debug\net6.0-windows\temp calculator.dll
+E:\hello-world\temp calculator\temp calculator\bin\Debug\net6.0-windows\ref\temp calculator.dll
+E:\hello-world\temp calculator\temp calculator\bin\Debug\net6.0-windows\temp calculator.pdb
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.csproj.AssemblyReference.cache
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp_calculator.Form1.resources
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.csproj.GenerateResource.cache
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.AssemblyInfoInputs.cache
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.AssemblyInfo.cs
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.csproj.CoreCompileInputs.cache
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.dll
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\ref\temp calculator.dll
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.pdb
+E:\hello-world\temp calculator\temp calculator\obj\Debug\net6.0-windows\temp calculator.genruntimeconfig.cache

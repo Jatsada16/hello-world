@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfa3a5a7-06f2-4210-92d0-3975de958d72": {
+      "ProjectGuid": "bfa3a5a7-06f2-4210-92d0-3975de958d72",
+      "DisplayName": "temp calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
