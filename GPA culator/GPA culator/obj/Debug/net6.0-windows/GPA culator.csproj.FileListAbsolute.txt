@@ -1,0 +1,17 @@
+E:\GPA\GPA culator\GPA culator\bin\Debug\net6.0-windows\GPA culator.exe
+E:\GPA\GPA culator\GPA culator\bin\Debug\net6.0-windows\GPA culator.deps.json
+E:\GPA\GPA culator\GPA culator\bin\Debug\net6.0-windows\GPA culator.runtimeconfig.json
+E:\GPA\GPA culator\GPA culator\bin\Debug\net6.0-windows\GPA culator.dll
+E:\GPA\GPA culator\GPA culator\bin\Debug\net6.0-windows\ref\GPA culator.dll
+E:\GPA\GPA culator\GPA culator\bin\Debug\net6.0-windows\GPA culator.pdb
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.csproj.AssemblyReference.cache
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA_culator.Form1.resources
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.csproj.GenerateResource.cache
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.AssemblyInfoInputs.cache
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.AssemblyInfo.cs
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.csproj.CoreCompileInputs.cache
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.dll
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\ref\GPA culator.dll
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.pdb
+E:\GPA\GPA culator\GPA culator\obj\Debug\net6.0-windows\GPA culator.genruntimeconfig.cache
